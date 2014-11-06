@@ -69,3 +69,7 @@ Session.vim
 .netrwhist
 *~
 
+# User defined
+
+# Prepros
+prepros.cfg
