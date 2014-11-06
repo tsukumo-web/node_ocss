@@ -2,7 +2,10 @@
   "name": "ocss",
   "version": "0.0.0",
   "description": "css optimization and cleaning tool",
-  "main": "index.js",
+  "main": "./bin/index.js",
+  "bin": {
+    "ocss": "./ocss"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tsukumo-web/node_ocss.git"
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/tsukumo-web/node_ocss/issues"
   },
-  "homepage": "https://github.com/tsukumo-web/node_ocss"
+  "homepage": "https://github.com/tsukumo-web/node_ocss",
+  "dependencies": {
+    "coa": "^0.4.1"
+  }
 }
