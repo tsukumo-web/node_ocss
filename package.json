@@ -1,0 +1,23 @@
+{
+  "name": "ocss",
+  "version": "0.0.0",
+  "description": "css optimization and cleaning tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsukumo-web/node_ocss.git"
+  },
+  "keywords": [
+    "css",
+    "optimize",
+    "optimization",
+    "clean",
+    "format"
+  ],
+  "author": "Chris Kelley <tsukumo.code+web@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsukumo-web/node_ocss/issues"
+  },
+  "homepage": "https://github.com/tsukumo-web/node_ocss"
+}
